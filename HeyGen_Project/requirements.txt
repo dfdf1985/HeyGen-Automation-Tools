@@ -1,0 +1,10 @@
+requests
+python-dotenv
+google-genai
+python-pptx
+pdf2image
+Pillow
+qrcode[pil]
+google-api-python-client
+isodate
+moviepy
